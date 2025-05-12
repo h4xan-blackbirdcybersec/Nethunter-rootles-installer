@@ -15,7 +15,7 @@ termux-setup-storage
 apt install git -y
 
 # Clone the repository
-git clone https://github.com/h4xan-blackbirdcybersec/Nethunter-rootles-installer/edit/main/README.md
+git clone https://github.com/h4xan-blackbirdcybersec/Nethunter-rootles-installer
 
 # Start the installation
 chmod +x Install.sh
