@@ -18,6 +18,6 @@ apt install git -y
 git clone https://github.com/h4xan-blackbirdcybersec/Nethunter-rootles-installer
 
 # Start the installation
-chmod +x Install.sh
+chmod +x install.sh
 
-./Install.sh
+./install.sh
